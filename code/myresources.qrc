@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>png/change.png</file>
+        <file>png/insert.png</file>
+        <file>png/open.png</file>
+        <file>png/questionmark.png</file>
+        <file>png/Save-icon.png</file>
+        <file>png/se.png</file>
+        <file>png/x.png</file>
+    </qresource>
+</RCC>

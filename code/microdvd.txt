@@ -1,0 +1,789 @@
+{25}{102}Subtitles downloaded from www.OpenSubtitles.org
+{2860}{2912}- Captain.|- Yes, sir?
+{2916}{2966}Tell them we wish|to board at once.
+{3002}{3036}With all due respect...
+{3040}{3116}the ambassadors for the supreme|chancellor wish to board immediately.
+{3120}{3164}{Y:i}Yes, of course.
+{3168}{3241}{Y:i}As you know,|our blockade is perfectly legal...
+{3244}{3342}{Y:i}and we'd be happy|to receive the ambassadors.
+{3881}{3944}I'm TC-14 at your service.
+{3947}{3992}This way, please.
+{4140}{4212}We are greatly honoured|by your visit, Ambassadors.
+{4216}{4260}Make yourselves comfortable.
+{4264}{4319}My master|will be with you shortly.
+{4412}{4467}I have a bad feeling about this.
+{4470}{4542}- I don't sense anything.|- It's not about the mission, Master.
+{4546}{4639}It's something elsewhere, elusive.
+{4642}{4699}Don't centre on your anxieties,|Obi-Wan.
+{4702}{4777}Keep your concentration here and now,|where it belongs.
+{4780}{4848}But Master Yoda said|I should be mindful of the future.
+{4852}{4899}But not at the expense|of the moment.
+{4902}{4972}Be mindful of the living Force,|young Padawan.
+{4976}{5021}Yes, Master.
+{5074}{5161}How do you think this trade viceroy|will deal with the chancellor's demands?
+{5164}{5215}These Federation types are cowards.
+{5218}{5286}The negotiations will be short.
+{5308}{5368}What? What did you say?
+{5372}{5442}The ambassadors are Jedi knights,|I believe.
+{5460}{5489}I knew it.
+{5492}{5546}They're here to force a settlement.
+{5578}{5652}Distract them.|I will contact Lord Sidious.
+{5656}{5693}Are you brain-dead?
+{5696}{5764}I'm not going in there|with two Jedi.
+{5804}{5838}Send a droid.
+{5970}{6014}Is it in their nature|to make us wait this long?
+{6018}{6072}No. I sense|an unusual amount of fear...
+{6076}{6126}for something as trivial|as this trade dispute.
+{6388}{6433}{Y:i}What is it?
+{6436}{6500}This scheme of yours has failed,|Lord Sidious.
+{6504}{6588}The blockade is finished.|We dare not go against these Jedi.
+{6592}{6706}{Y:i}Viceroy, I don't want|this stunted slime in my sight again.
+{6739}{6836}{Y:i}This turn of events is unfortunate.|We must accelerate our plans.
+{6839}{6900}{Y:i}Begin landing your troops.
+{6904}{6992}My lord, is that legal?
+{6996}{7050}{Y:i}I will make it legal.
+{7054}{7108}And the Jedi?
+{7112}{7171}{Y:i}The chancellor should never have|brought them into this.
+{7175}{7216}{Y:i}Kill them immediately.
+{7220}{7322}Yes, my lord.|As you wish.
+{7368}{7410}Captain, look!
+{7438}{7470}Shields--
+{7554}{7599}Sorry.
+{7642}{7686}Dioxis.
+{7804}{7865}{Y:i}They must be dead by now.
+{7868}{7932}{Y:i}Destroy what's left of them.
+{8128}{8184}Oh! Excuse me.
+{8188}{8258}-Check it out, Corporal. We'll cover you.|-Roger, roger.
+{8282}{8321}Uh-oh. Blast them.
+{8460}{8496}What is going on down there?
+{8500}{8546}We lost the transmission, sir.
+{8654}{8726}Have you ever encountered|a Jedi knight before, sir?
+{8730}{8800}Well, no, but I don't--|Seal off the bridge.
+{8804}{8868}- Yes, sir.|- That won't be enough, sir.
+{8872}{8918}I want droidekas|up here at once!
+{8922}{8982}We will not survive this.
+{9260}{9293}Close the blast doors!
+{9452}{9504}That will hold them.
+{9708}{9772}They are still coming through.
+{9776}{9821}This is impossible!
+{9930}{9997}Where are those droidekas?
+{10036}{10077}Master! Destroyers!
+{10232}{10264}They have shield generators!
+{10300}{10364}It's a standoff.|Let's go.
+{10464}{10524}They're no match for droidekas.
+{10528}{10567}Sir!
+{10570}{10634}They've gone up|the ventilation shaft.
+{10846}{10910}- Battle droids.|- It's an invasion army.
+{10952}{11016}This is an odd play|for the Trade Federation.
+{11018}{11092}We've got to warn the Naboo|and contact Chancellor Valorum.
+{11096}{11132}Let's split up.
+{11136}{11212}Stow aboard separate ships|and meet down on the planet.
+{11216}{11259}You were right|about one thing, Master.
+{11306}{11370}The negotiations were short.
+{11398}{11456}Sir, a transmission|from the planet.
+{11460}{11509}It's Queen Amidala herself.
+{11512}{11570}At last we are getting results.
+{11604}{11675}Again you come before us,|Your Highness.
+{11678}{11752}{Y:i}You will not be so pleased when you hear|what I have to say, Viceroy.
+{11756}{11844}{Y:i}Your trade boycott|of our planet has ended.
+{11848}{11908}I was not aware of such failure.
+{11912}{11976}{Y:i}I have word that the chancellor's|ambassadors are with you now...
+{11980}{12044}{Y:i}and that you have been commanded|to reach settlement.
+{12048}{12101}I know nothing|of any ambassadors.
+{12104}{12161}You must be mistaken.
+{12164}{12212}{Y:i}Beware, Viceroy.
+{12216}{12280}{Y:i}The Federation|has gone too far this time.
+{12284}{12380}We would never do anything|without the approval of the senate.
+{12384}{12443}You assume too much.
+{12446}{12479}{Y:i}We will see.
+{12518}{12614}- She's right. The senate will never--|- It's too late now.
+{12618}{12688}- Do you think she suspects an attack?|- I don't know.
+{12692}{12795}But we must move quickly to disrupt|all communications down there.
+{12927}{13017}{Y:i}Negotiations haven't started|because the ambassadors aren't there?
+{13020}{13072}{Y:i}How could that be true?
+{13076}{13179}{Y:i}I have assurances from the chancellor|his ambassadors did arrive.
+{13182}{13272}{Y:i}It must-- handiwork--|negotiate-- ambassadors--
+{13276}{13338}{Y:i}- nobody would--|- Senator Palpatine.
+{13341}{13386}What's happening?
+{13390}{13434}Check the transmission generator.
+{13438}{13553}A communications disruption|can mean only one thing: invasion.
+{13556}{13611}The Federation|would not dare go that far.
+{13614}{13705}The senate would revoke their trade|franchise, and they'd be finished.
+{13709}{13776}We must continue to rely|on negotiation.
+{13780}{13856}Negotiation?|We've lost all communications.
+{13860}{13915}And where are|the chancellor's ambassadors?
+{13948}{14006}This is a dangerous situation,|Your Highness.
+{14010}{14059}Our security volunteers|will be no match...
+{14062}{14113}against a battle-hardened|Federation army.
+{14152}{14240}I will not condone a course of action|that will lead us to war.
+{15114}{15188}{Y:i}- Yes, Viceroy?|- Captain, we've searched the ship...
+{15191}{15242}{Y:i}and there is no trace of theJedi.
+{15246}{15311}{Y:i}They may have gotten on|one of your landing craft.
+{15314}{15373}If they're down here, sir,|we'll find them.
+{15376}{15480}{Y:i}Use caution.|TheseJedi are not to be underestimated.
+{15812}{15854}- Oh, no!|- Get away! Get out of here!
+{15876}{15922}Get down!
+{16162}{16231}Was'n dat?|Hey, wait!
+{16254}{16295}Oh, mooie-mooie,|I love you.
+{16298}{16347}You almost got us killed.|Are you brainless?
+{16350}{16389}I spake.
+{16392}{16443}The ability to speak|does not make you intelligent.
+{16446}{16515}- Now, get out of here.|- No, no, mesa stay.
+{16518}{16591}Mesa culled Jar Jar Binks.|Mesa your humble servant.
+{16594}{16644}- That won't be necessary.|- Oh, but it 'tis.
+{16648}{16716}'Tis demanded by the gods, it 'tis.
+{16720}{16765}- Oh, no!|- Stay down!
+{16966}{17007}You saved my again.
+{17010}{17055}- What's this?|- A local.
+{17058}{17119}Let's get out of here|before more droids show up.
+{17122}{17203}More?|"More'' did you spake?
+{17206}{17323}Ex-squeeze-me, but de mostest|safest place would be Gunga City.
+{17326}{17403}Is where I grew up.|'Tis a hidden city.
+{17442}{17487}- A city?|- Uh-huh.
+{17490}{17533}Can you take us there?
+{17546}{17589}On second thought, no.
+{17592}{17652}- Not really, no.|- No?
+{17656}{17706}'Tis embarrassing...
+{17710}{17804}but my afraid|my've been banished.
+{17808}{17881}My forgotten. Da bosses|would do terrible tings to me.
+{17884}{17957}Terrible tings to me|if me goen back dare.
+{17960}{18032}- You hear that?|- Yah.
+{18036}{18125}That is the sound of a thousand|terrible things heading this way.
+{18128}{18190}If they find us,|they will crush us...
+{18194}{18302}grind us into tiny pieces|and blast us into oblivion.
+{18306}{18346}Oh.
+{18350}{18399}Yousa point is well seen.
+{18402}{18458}Dis way. Hurry!
+{18586}{18664}- How much further?|- Wesa goen underwater, okeyday?
+{18668}{18712}Ah, my warning you.
+{18716}{18814}Gungans no liken outsiders,|so don't spect a warm welcome.
+{18818}{18897}Don't worry. This hasn't been|our day for warm welcomes.
+{19148}{19205}Yousa follow me now, okeyday?
+{20292}{20361}So good bein home!
+{20754}{20816}Hey, yousa.|Stopa dare.
+{20820}{20875}Heyo-dales, Cap'n Tarpals.
+{20878}{20923}Mesa back.
+{20926}{20996}Noah gain,Jar Jar.|Yousa goen tada bosses.
+{21000}{21062}Yousa in big dudu dis time.
+{21202}{21239}How wude.
+{21446}{21504}Yousa cannot bees hair.
+{21508}{21616}Dis army of Mackineeks|up dare is new weesong.
+{21620}{21736}A droid army is about to attack|the Naboo. We must warn them.
+{21740}{21825}Wesa no like da Naboo.
+{21828}{21895}Da Naboo tink day so smarty.
+{21898}{21968}Day tink day brains so big.
+{21972}{22070}Once those droids take control of the|surface, they will take control of you.
+{22074}{22128}Mesa no tink so.
+{22132}{22200}Day not know of uss-en.
+{22204}{22273}You and the Naboo form|a symbiont circle.
+{22276}{22357}What happens to one of you will affect|the other. You must understand this.
+{22360}{22475}Wesa no carrrre-nn about da Naboo.
+{22478}{22539}Then speed us on our way.
+{22542}{22602}Wesa ganna speed yous away.
+{22606}{22672}We could use a transport.
+{22676}{22743}Wesa give yousa una bongo.
+{22746}{22820}Da speediest way tooda Naboo...
+{22824}{22936}'tis goen through the planet core.
+{22940}{22984}Now...
+{22988}{23030}go.
+{23034}{23087}Thank you for your help.|We leave in peace.
+{23090}{23139}Master, what's a bongo?
+{23142}{23189}A transport, I hope.
+{23192}{23242}Deysa setten yousa up.
+{23246}{23332}Goen through da planet core?|Bad bombin'.
+{23368}{23435}Any help here would be hot.
+{23468}{23512}Master, we're short on time.
+{23540}{23602}We'll need a navigator to get us|through the planet's core.
+{23606}{23652}This Gungan may be of help.
+{23704}{23776}What is to become|of Jar Jar Binks here?
+{23780}{23897}Hisen to be pune-ished.
+{23920}{23952}I saved his life.
+{23956}{24015}He owes me|what you call a "life-debt.''
+{24018}{24110}Your gods demand|that his life belongs to me now.
+{24114}{24169}Binks...
+{24172}{24267}yousa havena liveplay|with thisen hisen?
+{24430}{24473}Begone wit him!
+{24538}{24594}Count me outta dis one.
+{24598}{24672}Better dead here|than dead in da core.
+{24676}{24750}Yee gods!|What mesa sayin?
+{25188}{25254}Dis is nutsen.|Oh, gooberfish!
+{25258}{25335}- Why were you banished,Jar Jar?|- It's a longo tale-o...
+{25338}{25459}buta a small part of it|would be mesa... clumsy.
+{25462}{25577}- You were banished for being clumsy?|- Yousa might'n be sayin dat.
+{25888}{25988}Mesa caused mabee one two-y|lettle bitty axadentes, huh?
+{25992}{26040}Yud-say boom da gasser...
+{26044}{26110}den crashin der boss's heyblibber,|den banished.
+{26284}{26334}Big gooberfish!|Huge-o teeth!
+{26594}{26690}- There's always a bigger fish.|- Mesa tink we goen back now.
+{26964}{27040}The invasion is on schedule,|my lord.
+{27044}{27115}{Y:i}I have the senate|bogged down in procedures.
+{27118}{27224}{Y:i}They will have no choice but|to accept your control of the system.
+{27228}{27340}The queen has great faith|that the senate will side with her.
+{27344}{27414}{Y:i}Queen Amidala is young and naive.
+{27417}{27500}{Y:i}You will find controlling her|will not be difficult.
+{27504}{27548}Yes, my lord.
+{27584}{27652}You didn't tell him|about the missing Jedi.
+{27656}{27763}No need to report that to him|until we have something to report.
+{27872}{27960}- Where wesa goin?|- Don't worry. The Force will guide us.
+{27964}{28030}Oh, maxi big, da Force.
+{28052}{28100}Well, dat smells stinkowiff.
+{28134}{28190}- We're losing power.|- Oh, no!
+{28334}{28387}Wesa dyin' here.
+{28390}{28455}-Just relax. We're not in trouble yet.|- What "yet''?
+{28458}{28528}Monsters out dare.|Leak'n in here.
+{28532}{28650}All sink'n and no power?|Whena yousa tinkin wesa in trouble?
+{28682}{28736}Power's back.
+{28739}{28789}Monster's back!
+{28978}{29019}Relax.
+{29022}{29057}You overdid it.
+{29460}{29508}Head for that outcropping.
+{29512}{29557}Oh, boy.
+{30405}{30454}Viceroy, we have captured the queen.
+{30458}{30522}Ah, victory.
+{30845}{30897}Dis'n loverly.
+{31045}{31101}How will you explain this invasion|to the senate?
+{31105}{31204}The queen and I will sign a treaty that|will legitimize our occupation here.
+{31208}{31283}I have assurances|it will be ratified by the senate.
+{31286}{31369}- I will not cooperate.|- Now, now, Your Highness.
+{31372}{31471}In time, your people's suffering will|persuade you to see our point of view.
+{31504}{31549}- Commander.|- Yes, sir.
+{31552}{31591}Process them.
+{31594}{31637}Captain, take them to Camp 4.
+{31640}{31679}Roger, roger.
+{32996}{33048}We should leave the street,|Your Highness.
+{33052}{33090}Get their weapons.
+{33134}{33188}Yousa guys bombad!
+{33228}{33284}We're ambassadors|for the supreme chancellor.
+{33288}{33332}Your negotiations seemed|to have failed, Ambassador.
+{33336}{33379}The negotiations|never took place.
+{33382}{33439}It's urgent that we make contact|with the Republic.
+{33442}{33492}They've knocked out|all our communications.
+{33496}{33575}- Do you have transports?|- In the main hangar. This way.
+{33694}{33768}- There are too many of them.|- That won't be a problem.
+{33772}{33856}Your Highness, under the circumstances,|I suggest you come to Coruscant with us.
+{33860}{33932}Thank you, Ambassador,|but my place is with my people.
+{33936}{34000}- They will kill you if you stay.|- They wouldn't dare.
+{34004}{34052}They need her to sign a treaty|to make this invasion legal.
+{34056}{34092}They can't afford to kill her.
+{34096}{34146}There is something else behind all this,|Your Highness.
+{34150}{34196}There's no logic|in the Federation's move here.
+{34200}{34246}My feelings tell me|they will destroy you.
+{34250}{34306}Our only hope is for the senate|to side with us.
+{34310}{34368}Senator Palpatine|will need your help.
+{34372}{34466}Either choice presents great danger...|to us all.
+{34470}{34514}We are brave, Your Highness.
+{34518}{34595}If you are to leave,|Your Highness, it must be now.
+{34598}{34657}Then I will plead our case|to the senate.
+{34682}{34725}Be careful, Governor.
+{34940}{34989}We'll need to free those pilots.
+{35020}{35064}I'll deal with that.
+{35148}{35172}Halt.
+{35176}{35215}I'm ambassador|to the supreme chancellor.
+{35218}{35256}I'm taking these people to Coruscant.
+{35260}{35336}- Where are you taking them?|- To Coruscant.
+{35340}{35402}Coruscant?|Uh, that doesn't compute.
+{35406}{35451}Uh, wait.|Uh, you're under arrest.
+{35582}{35611}Come on. Move!
+{35740}{35763}Go!
+{36376}{36455}Now, stay here|and keep out of trouble.
+{36546}{36598}Hello, boyos.
+{36750}{36789}There's the blockade.
+{37040}{37078}The shield generator's been hit!
+{37282}{37320}How wude!
+{37560}{37598}We're losing droids fast.
+{37618}{37681}If we can't get the shield generator|fixed, we'll be sitting ducks.
+{37734}{37763}The shields are gone.
+{37958}{37990}The power's back!
+{38058}{38140}That little droid did it.|He bypassed the main power drive.
+{38144}{38205}Deflector shields up at maximum.
+{38436}{38524}There's not enough power to get us|to Coruscant. The hyperdrive is leaking.
+{38528}{38596}We'll have to land somewhere|to refuel and repair the ship.
+{38600}{38651}Here, Master.|Tatooine.
+{38654}{38694}It's small, out of the way, poor.
+{38698}{38739}The Trade Federation|have no presence there.
+{38742}{38787}How can you be sure?
+{38790}{38836}It's controlled by the Hutts.
+{38840}{38906}You can't take Her Royal Highness there.|The Hutts are gangsters.
+{38910}{38964}- If they discovered her--|- It'd be no different than landing...
+{38968}{39012}on a system controlled|by the Federation...
+{39016}{39065}except that the Hutts|aren't looking for her...
+{39068}{39118}which gives us the advantage.
+{39226}{39297}{Y:i}And Queen Amidala,|has she signed the treaty?
+{39300}{39387}She has disappeared, my lord.
+{39390}{39490}One Naboo cruiser|got past the blockade.
+{39506}{39563}{Y:i}I want that treaty signed.
+{39566}{39615}My lord...
+{39618}{39679}it's impossible to locate the ship.
+{39682}{39735}It's out of our range.
+{39738}{39792}{Y:i}Not for a Sith.
+{39806}{39851}{Y:i}This is my apprentice...
+{39854}{39900}{Y:i}Darth Maul.
+{39932}{40011}{Y:i}He will find your lost ship.
+{40116}{40170}This is getting out of hand.
+{40174}{40222}Now there are two of them.
+{40226}{40297}We should not|have made this bargain.
+{40424}{40509}An extremely well-put-together|little droid, Your Highness.
+{40512}{40581}Without a doubt, it saved the ship,|as well as our lives.
+{40584}{40664}It is to be commended.|What is its number?
+{40728}{40779}R2-D2, Your Highness.
+{40782}{40816}Thank you, R2-D2.
+{40908}{40941}Padmé.
+{40978}{41029}Clean this droid up|as best you can.
+{41032}{41079}It deserves our gratitude.
+{41122}{41159}Continue, Captain.
+{41230}{41274}Your Highness,|with your permission...
+{41278}{41343}we're heading for a remote planet|called Tatooine.
+{41346}{41426}It's in a system far beyond the reach|of the Trade Federation.
+{41430}{41491}I do not agree|with the Jedi on this.
+{41494}{41564}You must trust my judgment,|Your Highness.
+{41646}{41687}Hello.
+{41690}{41761}Sorry. Husa are yousa?
+{41790}{41823}I'm Padmé.
+{41850}{41898}Mesa Jar Jar Binks.
+{41918}{41949}You're a Gungan, aren't you?
+{42004}{42090}- How'd you end up here with us?|- My no know.
+{42094}{42181}Mesa day starten pitty okeyday|witda brisky morning munchen.
+{42184}{42251}Den boom!|Getten berry scared...
+{42254}{42333}and grabben dat Jedi, and pow--|mesa here.
+{42366}{42426}Mesa getten|berry, berry scared.
+{42578}{42651}- That's it-- Tatooine.|- There's a settlement.
+{42654}{42752}Land near the outskirts.|We don't want to attract attention.
+{43166}{43233}The hyperdrive generator's gone, Master.|We'll need a new one.
+{43236}{43295}That'll complicate things.|Be wary.
+{43298}{43373}- I sense a disturbance in the Force.|- I feel it also, Master.
+{43376}{43425}Don't let them send|any transmissions.
+{43572}{43629}The sun doen murder to mesa skin.
+{43632}{43668}Wait!
+{43694}{43728}Wait.
+{43810}{43879}Her Highness commands you|to take her handmaiden with you.
+{43882}{43972}No more commands|from Her Highness today, Captain.
+{43976}{44025}The spaceport|is not going to be pleasant.
+{44028}{44079}The queen wishes it.
+{44082}{44128}She's curious about the planet.
+{44190}{44263}This is not a good idea.|Stay close to me.
+{44594}{44662}Moisture farms,|for the most part.
+{44694}{44782}Some indigenous tribes|and scavengers.
+{44786}{44830}The few spaceports like this one...
+{44834}{44888}are havens for those|that don't wish to be found.
+{44892}{44937}Like us.
+{44970}{45036}Dissen berry, berry bad.
+{45070}{45110}Icky, icky goo!
+{45422}{45480}We'll try one of the smaller dealers.
+{45618}{45662}Good day to you.
+{45702}{45735}What do you want?
+{45738}{45812}I need parts for a J-type 327 Nubian.
+{45816}{45912}Ah, yes! Nubian.|We have lots of that.
+{45930}{45975}Boy, get in here now!
+{45978}{46023}My droid has a readout of what I need.
+{46086}{46126}What took you so long?
+{46146}{46179}I was cleaning the fan switches.
+{46182}{46248}Watch the store.|I've got some selling to do.
+{46252}{46329}So, let me take thee out back, huh?
+{46332}{46377}We'll find what you need.
+{46438}{46478}Don't touch anything.
+{46726}{46795}- Are you an angel?|- What?
+{46798}{46887}An angel. I heard the deep space|pilots talk about them.
+{46890}{46959}They're the most beautiful|creatures in the universe.
+{46962}{47024}They live on the moons of lego,|I think.
+{47044}{47131}You're a funny little boy.|How do you know so much?
+{47134}{47226}I listen to all the traders|and star pilots who come through here.
+{47230}{47332}I'm a pilot, you know, and someday|I'm gonna fly away from this place.
+{47336}{47430}- You're a pilot?|- Mm-hmm. All my life.
+{47434}{47488}How long have you been here?
+{47492}{47587}Since I was very little.|Three, I think.
+{47590}{47655}My mom and I were sold|to Gardulla the Hutt...
+{47658}{47723}but she lost us|betting on the Podraces.
+{47726}{47769}You're a slave?
+{47772}{47871}- I'm a person, and my name is Anakin.|- I'm sorry.
+{47874}{47964}I don't fully understand.|This is a strange place to me.
+{48262}{48299}- I got ya.|- Hey!
+{48302}{48344}Hit the nose.
+{48456}{48541}A T-14 hyperdrive generator.|Thee in luck.
+{48544}{48607}I'm the only one hereabouts|who has one.
+{48610}{48694}But thee might as well buy a new ship.|It would be cheaper, I think, huh.
+{48734}{48767}Saying of which...
+{48770}{48827}how's thee gonna pay|for all this, huh?
+{48830}{48879}I have 20,000 Republic dataries.
+{48882}{48926}Republic credits?
+{48930}{48999}Republic credits are no good out here.|I need something more real.
+{49002}{49077}I don't have anything else,|but credits will do fine.
+{49080}{49167}{Y:i}- No, they won't.|- Credits will do fine.
+{49170}{49214}No, they won't!
+{49218}{49317}What, you think you're some kind of Jedi,|waving your hand around like that?
+{49320}{49422}I'm a Toydarian. Mind tricks|don't work on me. Only money.
+{49442}{49523}No money, no parts, no deal.
+{49526}{49635}And no one else has a T-14 hyperdrive,|I promise you that.
+{49800}{49902}Wouldn't have lasted long anyways|if I wasn't so good at building things.
+{49992}{50037}We're leaving.Jar Jar.
+{50100}{50161}I'm glad to have met you, Anakin.
+{50164}{50208}I was glad to meet you too.
+{50410}{50518}Outlanders.|They think we know nothing.
+{50522}{50567}They seemed nice to me.
+{50570}{50616}Clean the racks.
+{50620}{50651}Then you can go home.
+{50654}{50697}Yippee!
+{50842}{50899}{Y:i}And you're sure there's|nothing left on board?
+{50902}{50947}A few containers of supplies.
+{50950}{51023}The queen's wardrobe, maybe,|but not enough for you to barter with...
+{51026}{51082}not in the amount|you're talking about.
+{51086}{51155}All right. I'm sure|another solution will present itself.
+{51158}{51191}I'll check back later.
+{51210}{51250}Noah gain. Noah gain.
+{51253}{51321}Da beings hereabouts, cawazy!
+{51324}{51383}Wesa be wobbed un crunched.
+{51386}{51462}Not likely. We have nothing of value.|That's our problem.
+{51828}{51862}Are you going to pay for that?
+{51910}{51955}It costs seven wupiupi.
+{52082}{52114}Oops.
+{52222}{52267}Is this yours?
+{52270}{52312}Who, mesa--
+{52412}{52463}Careful, Sebulba.
+{52466}{52514}He's a big-time outlander.
+{52518}{52602}I'd hate to see you diced|before we race again.
+{52606}{52698}Next time we race, boy,|it will be the end of you.
+{52702}{52774}If you weren't a slave,|I'd squash you now.
+{52791}{52859}Yeah, it'd be a pity|if you had to pay for me.
+{52886}{52961}- Hi.|- Hi there.
+{52964}{53007}Your buddy here was|about to be turned into orange goo.
+{53010}{53055}He picked a fight with a Dug...
+{53059}{53118}an especially dangerous Dug|called Sebulba.
+{53122}{53207}Mesa haten crunchen.|Das da las ting mesa want.
+{53210}{53306}Nevertheless, the boy is right.|You were heading into trouble.
+{53320}{53354}Thanks, my young friend.
+{53409}{53454}But mesa doen nutten!
+{53659}{53720}This storm will slow them down.
+{53724}{53759}Looks pretty bad.
+{53791}{53851}{Y:i}- Panaka.|- Receiving a message from home.
+{53854}{53897}We'll be right there.
+{54052}{54103}Here, you'll like these pallies.
+{54106}{54168}- Here.|- Thank you.
+{54197}{54251}My bones are aching.
+{54254}{54363}Storm's coming up, Ani.|You better get home quick.
+{54366}{54434}- Do you have shelter?|- We'll head back to our ship.
+{54438}{54499}- Is it far?|- It's on the outskirts.
+{54503}{54559}You'll never reach|the outskirts in time.
+{54562}{54655}Sandstorms are very, very dangerous.
+{54659}{54717}Come on.|I'll take you to my place.
+{55070}{55099}Mom!
+{55103}{55191}- Mom, I'm home!|- Ah, dissen cosy.
+{55194}{55251}- These are my friends, Mom.|- Hello.
+{55254}{55339}- I'm Qui-Gon Jinn.|- I'm building a droid. You wanna see?
+{55342}{55399}Your son was kind enough|to offer us shelter.
+{55403}{55449}Come on. I'll show you 3PO.
+{55684}{55762}Isn't he great?|He's not finished yet.
+{55766}{55796}He's wonderful.
+{55826}{55867}You really like him?
+{55870}{55940}He's a protocol droid|to help Mom. Watch.
+{56047}{56077}Where is everybody?
+{56080}{56108}Whoops.
+{56186}{56213}Oh, hello.
+{56216}{56295}I am C-3PO,|human cyborg relations.
+{56298}{56343}How might I serve you?
+{56347}{56413}- He's perfect.|- Oh. Perfect.
+{56416}{56501}When the storm is over, I'll show you|my racer. I'm building a Podracer.
+{56534}{56595}I'm not sure this floor|is entirely stable.
+{56598}{56675}Hello. I don't believe|we have been introduced.
+{56722}{56775}R2-D2.|A pleasure to meet you.
+{56778}{56851}I am C-3PO,|human cyborg relations.
+{56914}{56991}I beg your pardon,|but what do you mean, " naked''?
+{57032}{57109}My parts are showing?|My goodness!
+{57220}{57279}{Y:i}The death toll is catastrophic.
+{57282}{57339}{Y:i}We must bow to their wishes.
+{57342}{57391}{Y:i}You must contact me.
+{57394}{57459}It's a trick.|Send no reply.
+{57462}{57509}Send no transmissions of any kind.
+{57564}{57633}It sounds like bait|to establish a connection trace.
+{57636}{57731}{Y:i}What if it is true,|and the people are dying?
+{57734}{57793}Either way,|we're running out of time.
+{58120}{58171}Tatooine is sparsely populated.
+{58174}{58241}If the trace was correct,|I will find them quickly, Master.
+{58244}{58289}Move against the Jedi first.
+{58292}{58357}You will then have no difficulty|in taking the queen to Naboo...
+{58360}{58405}to sign the treaty.
+{58409}{58460}At last we will reveal ourselves|to the Jedi.
+{58464}{58521}At last we will have revenge.
+{58524}{58593}You have been well-trained,|my young apprentice.
+{58597}{58653}They will be no match for you.
+{58770}{58866}All slaves have a transmitter|placed inside their bodies somewhere.
+{58892}{58964}I've been working on a scanner|to try and locate mine.
+{58968}{59051}- Any attempt to escape--|- And they blow you up!
+{59074}{59111}How wude!
+{59114}{59172}I can't believe|there's still slavery in the galaxy.
+{59176}{59220}The Republic's antislavery laws--
+{59224}{59279}The Republic doesn't exist out here.
+{59282}{59334}We must survive on our own.
+{59359}{59394}Xcuse me.
+{59444}{59505}Has anybody ever seen a Podrace?
+{59509}{59551}They have Podracing|on Malastare.
+{59554}{59619}Very fast, very dangerous.
+{59638}{59683}I'm the only human who can do it.
+{59686}{59758}You must have Jedi reflexes|if you race pods.
+{59786}{59818}Don't do that again.
+{59950}{60011}You're a Jedi knight, aren't you?
+{60082}{60151}- What makes you think that?|- I saw your laser sword.
+{60154}{60223}Only Jedis carry|that kind of weapon.
+{60226}{60301}Perhaps I killed a Jedi|and took it from him.
+{60304}{60343}I don't think so.
+{60347}{60398}No one can kill a Jedi.
+{60418}{60467}I wish that were so.
+{60470}{60519}I had a dream I was a Jedi.
+{60522}{60598}I came back here|and freed all the slaves.
+{60602}{60681}- Have you come to free us?|- No, I'm afraid not.
+{60684}{60788}I think you have.|Why else would you be here?
+{60906}{60971}I can see there's|no fooling you, Anakin.
+{60974}{61046}We're on our way to Coruscant,|the central system in the Republic...
+{61050}{61097}on a very important mission.
+{61100}{61173}How did you end up out here|in the outer rim?
+{61176}{61263}Our ship was damaged, and we're|stranded here until we can repair it.
+{61294}{61370}I can help.|I can fix anything.
+{61374}{61409}I believe you can.
+{61412}{61479}But first we must acquire|the parts we need.
+{61482}{61547}Wit no-nutten mula to trade.
+{61550}{61635}These junk dealers|must have a weakness of some kind.
+{61638}{61741}Gambling. Everything here revolves|around betting on those awful races.
+{61744}{61774}Podracing.
+{61778}{61847}Greed can be a powerful ally.
+{61850}{61919}I built a racer.|It's the fastest ever.
+{61922}{61977}There's a big race tomorrow|on Boonta Eve.
+{61980}{62027}You could enter my pod.
+{62050}{62123}- Anakin, Watto won't let you.|- Watto doesn't know I've built it.
+{62126}{62171}You could make him think|it was yours...
+{62174}{62227}and get him|to let me pilot it for you.
+{62230}{62268}I don't want you to race.|It's awful.
+{62272}{62331}I die every time|Watto makes you do it.
+{62334}{62385}But, Mom, I love it.
+{62388}{62473}The prize money would more than pay|for the parts they need.
+{62476}{62531}Anakin.
+{62534}{62600}Your mother's right.
+{62603}{62677}Is there anyone friendly to the Republic|who can help us?
+{62714}{62753}No.
+{62876}{62986}Mom, you say the biggest problem in this|universe is nobody helps each other.
+{63103}{63171}I'm sure Qui-Gon doesn't want|to put your son in danger.
+{63174}{63220}We'll find some other way.
+{63280}{63338}There is no other way.
+{63341}{63445}I may not like it,|but he can help you.
+{63466}{63511}He was meant to help you.
+{63836}{63881}Are you sure about this?
+{63884}{63947}Trusting our fate|to a boy we hardly know?
+{63950}{63999}The queen will not approve.
+{64003}{64047}The queen doesn't need to know.
+{64074}{64113}Well, I don't approve.
+{64141}{64203}The boy tells me you want|to sponsor him in the race.
+{64206}{64245}How can you do this?
+{64248}{64327}Not on the Republic credits,|I think.
+{64330}{64382}My ship will be the entry fee.
+{64394}{64435}Not bad!
+{64438}{64509}Not bad, huh?|Nubian, huh?
+{64512}{64591}It's in good order,|except for the parts I need.
+{64594}{64654}What would the boy ride?
+{64658}{64742}He smashed up my pod in the last race.|It would take some long time to fix it.
+{64746}{64801}It wasn't my fault.|Really.
+{64804}{64843}Sebulba flashed me with his vents.
+{64847}{64927}I actually saved the pod, mostly.
+{64954}{65013}That you did.
+{65016}{65083}The boy's good.|No doubts there, huh?
+{65086}{65146}I have acquired a pod|in a game of chance.
+{65150}{65189}The fastest ever built.
+{65192}{65315}I hope you didn't kill|anyone I know for it, huh?
+{65362}{65447}So, you supply the pod|and the entry fee...
+{65450}{65483}and I supply the boy.
+{65486}{65579}We split the winnings 50-50,|I think, huh?
+{65582}{65627}If it's going to be 50-50...
+{65630}{65693}I suggest you front the cash|for the entry.
+{65696}{65745}If we win...
+{65748}{65839}you keep all the winnings,|minus the cost of the parts I need.
+{65842}{65919}And if we lose,|you keep my ship.
+{65978}{66012}Either way, you win.
+{66152}{66183}Deal!
+{66308}{66410}Your friend|is a foolish one, methinks.
+{66602}{66671}What if this plan fails, Master?
+{66674}{66739}We could be stuck here|a very long time.
+{66742}{66803}{Y:i}Well, it's too dangerous|to call for help...
+{66806}{66887}and a ship without a power supply|isn't going to get us anywhere.
+{66890}{66937}And...
+{66940}{66985}there's something about this boy.
+{67150}{67205}You should be very proud of your son.
+{67224}{67279}He gives without any thought|of reward.
+{67282}{67351}He knows nothing of greed.
+{67354}{67380}He has--
+{67404}{67449}He has special powers.
+{67492}{67521}Yes.
+{67524}{67587}He can see things|before they happen.
+{67590}{67657}That's why he appears|to have such quick reflexes.
+{67660}{67705}It's a Jedi trait.
+{67708}{67775}He deserves better|than a slave's life.
+{67778}{67859}Had he been born in the Republic,|we would have identified him early.
+{67918}{68007}The Force is unusually strong with him.|That much is clear.
+{68010}{68052}Who was his father?
+{68118}{68163}There was no father.
+{68198}{68278}I carried him,|I gave birth, I raised him.
+{68300}{68359}I can't explain what happened.
+{68400}{68442}Can you help him?
+{68446}{68490}I don't know.
+{68550}{68637}I didn't actually come here|to free slaves.
+{68952}{68997}Wow, a real astro droid!
+{69044}{69133}- How do you get so lucky?|- That isn't the half of it.
+{69136}{69207}- I'm in the Boonta race tomorrow.|- What?
+{69210}{69251}With this?
+{69254}{69320}You're such a joker, Ani.
+{69324}{69400}- You've been working on that for years.|- It's never gonna run.
+{69404}{69455}Come on.|Let's go and play ball.
+{69458}{69537}Keep racing, Ani.|You're gonna be bug squash.
+{69742}{69799}Keep away from|those energy binders.
+{69802}{69885}If your hand gets caught in the beam,|it's gonna go numb for hours.
+{69888}{69921}Okay.
+{70010}{70071}My tongue is fat.
+{70074}{70148}My tongue-- Wrench.
+{70152}{70216}Where is de wrench?|Oh, dare it is.
+{70322}{70359}I'm stuck.
+{70362}{70458}You know, I find that Jar Jar creature|to be a little odd.
+{70502}{70570}You don't even know|if this thing's gonna run.
+{70574}{70623}- It will.|- I think it's time we found out.
+{70626}{70679}- Here, use this power charge.|- Yes, sir!
+{70682}{70731}Come on, Kitster.|Let's move away.
+{70734}{70787}My mouth.
+{70790}{70822}Ani, I'm stuck.
+{70948}{70999}My tongue is fat.
+{71002}{71073}You're quite right.|He's very odd indeed.
+{71126}{71175}Thank you.
+{71178}{71212}Go.
+{71560}{71647}It's working!|It's working!
+{71902}{71962}Stay still, Ani.|Let me clean this cut.
+{71966}{72059}There's so many.|Do they all have a system of planets?
+{72062}{72107}Most of them.
+{72110}{72157}Has anyone been to 'em all?
+{72198}{72227}Not likely.
+{72254}{72307}I wanna be the first one|to see 'em all.
+{72336}{72393}Ani, bedtime!
+{72396}{72462}There we are.|Good as new.
+{72466}{72534}Ani, I'm not gonna tell you again.
+{72538}{72619}- What are you doing?|- Checking your blood for infections.
+{72622}{72659}Go on.
+{72662}{72709}You have a big day tomorrow.
+{72712}{72757}Sleep well, Ani.
+{72824}{72871}{Y:i}- Obi-Wan?|- Yes, Master?
+{72874}{72939}I need an analysis|of this blood sample I'm sending you.
+{72942}{72983}Wait a minute.
+{73024}{73071}I need a midi-chlorian count.
+{73142}{73205}The reading is off the chart.
+{73208}{73253}Over 20,000.
+{73256}{73343}{Y:i}Even Master Yoda doesn't have|a midi-chlorian count that high.
+{73346}{73389}No Jedi has.
+{73392}{73441}What does that mean?
+{73462}{73501}I'm not sure.
+{75178}{75247}I wanna see your spaceship|the moment the race is over.
+{75250}{75292}Patience, my blue friend.
+{75296}{75349}You'll have your winnings|before the suns set.
+{75352}{75395}And we'll be far away from here.
+{75398}{75495}Not if your ship belongs to me,|I think, huh?
+{75498}{75579}I warn you, no funny business.
+{75582}{75657}- You don't think Anakin can win?|- Don't get me wrongo.
+{75660}{75719}I have great faith in the boy.
+{75722}{75773}He's a credit to your race...
+{75776}{75853}but Sebulba there|is going to win, I think.
+{75904}{75946}Oh, no!
+{76046}{76090}Why do you think that?
+{76094}{76138}He always wins!
+{76186}{76245}I am betting heavily on Sebulba.
+{76290}{76354}- I'll take that bet.|- What?
+{76372}{76452}I'll wager my new racing pod|against, say...
+{76456}{76500}the boy and his mother.
+{76504}{76592}No pod is worth two slaves,|not by a long shot.
+{76614}{76656}The boy, then.
+{76806}{76865}We'll let fate decide, huh?
+{76868}{76950}I just happen to have|a chance cube here.
+{76954}{77026}Blue, it's the boy.
+{77030}{77056}Red...
+{77090}{77129}his mother.
+{77362}{77420}You won this small toss,|outlander...
+{77424}{77474}but you won't win the race!
+{77478}{77527}So it makes little difference!
+{77762}{77880}Better stop your friend's betting|or I'll end up owning him too.
+{77970}{78030}- What'd he mean by that?|- I'll tell you later.
+{78034}{78066}Good morning.
+{78118}{78183}Oh, my.|Space travel sounds rather perilous.
+{78234}{78329}I can assure you, they will never get me|onto one of those dreadful starships.
+{78332}{78413}This is so wizard, Ani.|I'm sure you'll do it this time.
+{78416}{78442}Do what?
+{78446}{78518}Finish the race, of course.
+{78522}{78563}You've never won a race?
+{78566}{78631}Well, not exactly.
+{78634}{78682}Not even finished?
+{78686}{78744}Kitster's right.|I will this time.
+{78748}{78796}Of course you will.
+{79508}{79551}That's absolutely right.
+{79554}{79675}And a big turnout here from all corners|of the outer rim territories.
+{79678}{79765}I see the contestants are making|their way out onto the starting grid.
+{79816}{79883}{Y:i}I see Ben Quadinaros|from the Tund System.
+{80020}{80078}{Y:i}Two-time winner Boles Roor.
+{80140}{80182}{Y:i}Sebulba!
+{80432}{80506}And in the front row,|nearside pole position...
+{80510}{80557}{Y:i}Mawhonic!
+{80586}{80635}{Y:i}A hearty hello...
+{80638}{80727}{Y:i}to Clegg Holdfast|and his Voltec KT9 Wasp!
+{80800}{80871}{Y:i}And back again,|it's the mighty Dud Bolt...
+{80874}{80984}{Y:i}with that incredible racing machine,|the Vulptereen 327.
+{81064}{81119}{Y:i}And hoping for a big win today...
+{81122}{81228}{Y:i}Ody Mandrell,|with his record-setting pit droid team.
+{81346}{81423}{Y:i}And a late entry,|young Anakin Skywalker...
+{81426}{81457}{Y:i}a local boy.
+{81522}{81576}I see the flags are moving|out onto the track.
+{82062}{82098}Be safe.
+{82102}{82157}I will, Mom. I promise.
+{82546}{82610}You won't walk away from this one...
+{82612}{82666}you slave scum.
+{82670}{82747}Don't count on it, slime ball.
+{82750}{82807}You're bantha fodder!
+{82918}{82970}- You all set, Ani?|- Yep.
+{82974}{83012}Right.
+{83112}{83174}Remember, concentrate|on the moment.
+{83178}{83267}Feel, don't think.|Use your instincts.
+{83270}{83309}I will.
+{83312}{83365}May the Force be with you.
+{83580}{83628}Jabba the Hutt.
+{83874}{83979}Welcome.
+{84002}{84080}Begin the race!
+{84334}{84409}{Y:i}Hey, looks like|they're clearing the grid.
+{84438}{84483}- Is he nervous?|- He's fine.
+{84522}{84591}You Jedi are far too reckless.|The queen is not--
+{84594}{84663}The queen trusts my judgment,|young handmaiden.
+{84666}{84719}You should too.
+{84722}{84772}You assume too much.
+{84790}{84848}{Y:i}Start your engines.
+{85790}{85870}Oh, dissen gonna be messy.|Me no watch'n!
+{86350}{86381}Oh, no!
+{86516}{86595}Wait.|Little Skywalker has stalled.
+{86846}{86947}{Y:i}It looks like Quadinaros|is having engine trouble also.
+{86986}{87016}Come on, Ani!
+{87170}{87208}{Y:i}And there goes Skywalker!
+{87212}{87246}Go, Ani, go!
+{87250}{87300}{Y:i}He will be hard-pressed|to catch up with the leaders.
+{89078}{89147}{Y:i}Looks like a few Tusken Raiders|are camped out...
+{89150}{89205}{Y:i}on the canyon dune turn.
+{89474}{89563}There goes Quadinaros'|power coupling.
+{90228}{90281}Oh, no!
+{90396}{90441}Where is Master Anakin?
+{90520}{90572}Look. Here he comes.
+{90642}{90697}{Y:i}It looks like Skywalker|is moving up in the field.
+{90718}{90752}Yay! Yippee!
+{90932}{91018}He has to complete|two more circuits? Oh, dear.
+{92640}{92684}Skywalker's|spinning out of control!
+{94074}{94168}I don't care what universe you're from.|That's gotta hurt!
+{94338}{94378}Here he comes!
+{94382}{94456}{Y:i}At the start of the third and final lap,|Sebulba's in the lead...
+{94460}{94519}{Y:i}followed closely by Skywalker!
+{94522}{94543}Go, Ani!
+{95192}{95247}Skywalker's been forced|onto the service ramp!
+{95768}{95800}It's Skywalker!
+{95824}{95855}Sebulba!
+{95858}{95960}Amazing! A quick control thrust,|and he's back on course!
+{95964}{96005}Did he crash-ed?
+{96988}{97064}Skywalker's in trouble!|Sebulba takes the lead!
+{98336}{98375}He's catching Sebulba!
+{98402}{98462}Careful, Ani. Careful, Ani!
+{99190}{99247}That little human being|is out of his mind!
+{99274}{99302}{Y:i}They're side by side!
+{99990}{100034}- Yippee!|- Yay!
+{100136}{100176}I can't believe it.
+{100180}{100225}The crowds are going nuts!
+{100250}{100326}Best watched using Open Subtitles MKV Player
